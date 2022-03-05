@@ -18,7 +18,7 @@ This is a story or many stories.
 
 ## 1.Branch
 
-S.O.M.E have five branch:
+S.O.M.E have four branch:
 
 S branch
 
@@ -28,11 +28,7 @@ M branch
 
 E branch
 
-Website branch
-
-And these five branch is S.O.M.E's all...
-
-But please ignore `Website branch`,because it's really is a website branch,it only has a website.It doesn't have any story,not accord with this repository's topic.
+And these four branch is S.O.M.E's all...
 
 ## 2.About Story ...Maybe Is Stories
 
