@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pic.lienav.com/2022/02/27/665211d2bee64.png" width="150px" height="150px">
+  <img src="https://s1.imagehub.cc/images/2022/05/14/s.o.m.e.png" width="150px" height="150px">
   <h1 align="center">S.O.M.E</h1>
 <a href="https://github.com/xn-team/S.O.M.E/blob/Website/LICENSE"><img src="https://img.shields.io/badge/license-MIT%20License-blue" alt=""></a>
 </div>
@@ -14,7 +14,11 @@ This is a story or many stories.
 
 [1.Branch](##1.Branch)
 
-[2.About Story ...Maybe Is Stories](##2.About Story ...Maybe Is Stories)
+[2.About Story...Maybe Is Stories](##2.About Story...Maybe Is Stories)
+
+[3.Maintainers](##3.Maintainers)
+
+[4.License](##4.License)
 
 ## 1.Branch
 
@@ -30,7 +34,7 @@ E branch
 
 And these four branch is S.O.M.E's all...
 
-## 2.About Story ...Maybe Is Stories
+## 2.About Story...Maybe Is Stories
 
 It's possible that all four branches are telling the same story.
 
@@ -40,7 +44,7 @@ All story will different.
 
 Maybe say sad,maybe say happy,maybe say satire.
 
-## 3.Maintainer
+## 3.Maintainers
 
 All XN Team's member.
 
