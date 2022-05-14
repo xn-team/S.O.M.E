@@ -14,7 +14,11 @@ This is a story or many stories.
 
 [1.Branch](##1.Branch)
 
-[2.About Story ...Maybe Is Stories](##2.About Story ...Maybe Is Stories)
+[2.About Story...Maybe Is Stories](##2.About Story...Maybe Is Stories)
+
+[3.Maintainers](##3.Maintainers)
+
+[4.License](##4.License)
 
 ## 1.Branch
 
@@ -34,7 +38,7 @@ And these five branch is S.O.M.E's all...
 
 But please ignore `Website branch`,because it's really is a website branch,it only has a website.It doesn't have any story,not accord with this repository's topic.
 
-## 2.About Story ...Maybe Is Stories
+## 2.About Story...Maybe Is Stories
 
 It's possible that all four branches are telling the same story.
 
@@ -44,7 +48,7 @@ All story will different.
 
 Maybe say sad,maybe say happy,maybe say satire.
 
-## 3.Maintainer
+## 3.Maintainers
 
 All XN Team's member.
 
